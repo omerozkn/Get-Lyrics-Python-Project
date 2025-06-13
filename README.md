@@ -1,6 +1,6 @@
 # Get Lyrics
 
-#### Video Demo: https://youtu.be/txGAvxUfg78
+#### Video Demo: Empty
 # Project title: Get Lyrics
 # Name: Ömer Faruk Özkan
 # github: omerozkn
